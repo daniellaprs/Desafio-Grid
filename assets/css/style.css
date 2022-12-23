@@ -67,9 +67,7 @@ footer{
     grid-area: footer;
     background-color: white;
 }
-/* Fin Grid areas */
 
-/* Productos */
 
 .grid-container-productos{
     display: grid;
@@ -79,13 +77,13 @@ footer{
 }
 
 
-/* cards */
+
 .cards-container{
     padding: 1rem;
     max-width: 300px;
     max-height: 500px;
     margin: 0;
-    /* border: solid 1px red; */
+    
     
 }
 
@@ -96,7 +94,7 @@ footer{
     text-align: center;
     overflow: hidden;
     border-radius: 1rem;
-    /* border: solid 1px greenyellow; */
+    
     
 }
 
@@ -123,10 +121,7 @@ footer{
     color: white;
     background-color: plum;
 }
-/* Fin cards */
-/* Fin productos */
 
-/* Footer */
 footer{
     background-color: deepskyblue;
     color: white;
@@ -134,4 +129,3 @@ footer{
     padding: 1rem;
     
 }
-/* Fin footer */
